@@ -1,1 +1,1 @@
-repo for ALX 0x00. C - Hello, World project
+repo for ALX 0x00. C - Hello, World project.
